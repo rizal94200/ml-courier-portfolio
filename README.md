@@ -42,6 +42,28 @@ notebooks/
 requirements.txt
 .gitignore
 
+---
+
+
+🧠 Machine Learning Models
+1. Logistic Regression
+ROC AUC: 0.85 (example value, replace with your actual result)
+Strengths: Simple, fast, and easy to interpret.
+Limitations: Less effective for capturing complex non-linear relationships.
+
+2. Random Forest
+ROC AUC: 0.92 (example value, replace with your actual result)
+Strengths: Handles non-linear relationships and interactions between features well.
+Limitations: Less interpretable compared to Logistic Regression.
+
+🔍 Top 5 Important Features (Random Forest)
+Delivery distance
+Courier average SLA performance
+Package weight
+Origin province
+Destination province
+
+
 
 ---
 
