@@ -19,6 +19,20 @@ It includes:
 - 💡 **Insights & Business Recommendations**
 
 ---
+## 📂 Dataset
+All datasets are stored in the [`data/`](data/) folder:
+
+| File Name | Description |
+|-----------|-------------|
+| `courier_dim.csv` | Courier master data |
+| `customer_dim.csv` | Customer master data |
+| `location_dim.csv` | Location master data |
+| `order_fact.csv` | Main order transaction data |
+| `features_for_model.csv` | Processed features used for ML model |
+
+
+---
+
 
 ## 📂 Project Structure
 notebooks/
