@@ -1,0 +1,22 @@
+{
+  "timestamp": "2025-08-11T15:19:01.612915",
+  "n_train": 4393,
+  "n_test": 1099,
+  "auc_logreg": 0.8294813412704944,
+  "auc_rf": 0.8136481679605703,
+  "best_threshold_for_outSLA": 0.6,
+  "precision_outSLA_at_best_t": 0.5516129032258065,
+  "recall_outSLA_at_best_t": 0.6551724137931034,
+  "cat_features": [
+    "service_name",
+    "logistic_name",
+    "province_name",
+    "city_name"
+  ],
+  "num_features": [
+    "package_finalweight_value",
+    "rates_shipment_value",
+    "rates_insurance_value",
+    "surchargefee"
+  ]
+}
